@@ -1,1 +1,1 @@
-# avorite-cmd-commands
+# favorite-cmd-commands
